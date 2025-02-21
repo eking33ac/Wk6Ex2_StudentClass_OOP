@@ -31,6 +31,10 @@ namespace Wk6Ex1_MobilePhoneClass_OOP
 
             // display the info for student 3
             student3.DisplayStudentInfo();
+
+
+            // pause at the end of the program for user to read
+            Console.Read();
         }
     }
 
