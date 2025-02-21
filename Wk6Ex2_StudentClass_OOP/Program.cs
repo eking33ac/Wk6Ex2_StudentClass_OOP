@@ -16,7 +16,7 @@ namespace Wk6Ex1_MobilePhoneClass_OOP
             // Have a module within the class to display their information.
             // Create three students(objects of the student class) and display their information.
 
-            // Initialize the first student. Name him Jonothan, give him the id 123123, set his age to 20, and name his course about children and grandmas scripting
+            // Initialize the first student. Name him Jonothan, give him the id 123123, set his age to 20, and name his course about children and grandmas scripting sites
             Student student1 = new Student("Jonothan", 123123, 20, "Web Design for Babies and Old People");
             // Initialize the second student. Name her Maria, give her the id 456456, set her age to 45, and name her course about robots sewing
             Student student2 = new Student("Maria", 456456, 45, "Teach Your Robot to Sew Socks");
